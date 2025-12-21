@@ -1,0 +1,7 @@
+nombre,edad,nota
+carlos vintimilla,30,10
+alberto carrasco,26, 8
+daniel vintimilla,27
+juan perez, veinte, 9
+maria castro, 21, 11
+pamela suarez, 19, 6
